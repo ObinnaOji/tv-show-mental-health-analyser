@@ -94,4 +94,4 @@ The system runs in Google Colab. Open the notebook, run all cells in order, then
 
 Final year undergraduate major project — BSc Data and Analytical Science, Anglia Ruskin University (2024–2025).
 
-Connect on [LinkedIn](https://www.linkedin.com/in/ObinnaOji) | [GitHub](https://github.com/ObinnaOji)
+Connect on [LinkedIn](www.linkedin.com/in/obinna-oji-aa406b316) | [GitHub](https://github.com/ObinnaOji)
