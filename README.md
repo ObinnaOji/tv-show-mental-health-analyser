@@ -70,19 +70,7 @@ The system is deployed as an interactive Streamlit dashboard with five pages:
 
 **VADER limitation** — VADER measures how positively viewers talk about a show, not the show's emotional weight. Chernobyl gets glowing reviews despite being deeply traumatic. Fixed by expanding the mental health keyword list with Heavy-specific vocabulary (devastating, haunting, traumatic, harrowing) and implementing a post-training override system.
 
----
 
-## Project Structure
-
-```
-tv-show-mental-health-analyser/
-│
-├── Copy_of_dissertation_project.ipynb   # Full pipeline — data processing, training, evaluation
-├── dashboard.py                          # Streamlit dashboard
-└── README.md
-```
-
----
 
 ## Running the Dashboard
 
