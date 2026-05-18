@@ -13,6 +13,7 @@ Unlike standard recommendation systems that focus on entertainment quality, this
 
 ---
 
+
 ## Demo
 
 The system is deployed as an interactive Streamlit dashboard with five pages:
@@ -21,6 +22,13 @@ The system is deployed as an interactive Streamlit dashboard with five pages:
 - **All Shows** — browse all 50 shows by category with a bar chart breakdown
 - **Why It Matters** — the research behind TV and mental health
 - **About Model** — model performance, precision scores, and the key TF-IDF finding
+
+<img width="1893" height="899" alt="image" src="https://github.com/user-attachments/assets/4886d0bc-011a-4522-82eb-9178e193c69c" />
+
+
+
+<img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/cb7fb197-8867-4881-a5f0-952abdbbbd62" />
+
 
 ---
 
