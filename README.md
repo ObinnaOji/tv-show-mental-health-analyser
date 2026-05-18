@@ -92,6 +92,7 @@ The system runs in Google Colab. Open the notebook, run all cells in order, then
 
 ## Improvements to make
 
+The artifact made a few wrong predictions even after the anchor data injections so the next aim would be getting the accuracy up.
 
 
 ## About
