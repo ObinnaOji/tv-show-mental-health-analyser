@@ -97,6 +97,6 @@ The artifact made a few wrong predictions even after the anchor data injections 
 
 ## About
 
-Final year undergraduate major project — BSc Data and Analytical Science, Anglia Ruskin University (2024–2025).
+Final year undergraduate major project — BSc Data and Analytical Science, Anglia Ruskin University (2023–2026).
 
 Connect on [LinkedIn](https://www.linkedin.com/in/obinna-oji-aa406b316) | [GitHub](https://github.com/ObinnaOji)
